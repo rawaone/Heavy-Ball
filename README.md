@@ -4,10 +4,6 @@ A 3D mobile game with important monetization models.
 * Monetization models are banner ads, interstitial ads, and rewarded video ads.
 * A free-to-play casual mobile game with a hyper-casual game style, constructed using 3D elements, built using the Unity game engine.
 
-
-<a href="app.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
-
-
 ## 🎮 Game Story
 * The story of a mobile game provides its users with a reason to continue playing, it contributes to keeping people interested and hooked for extended periods.
 * The basic gameplay of the Ball is moving forward, avoiding obstacles, and reaching the end of the level point.
