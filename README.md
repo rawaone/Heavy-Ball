@@ -17,16 +17,16 @@ A 3D mobile game with important monetization models.
 * The length of the levels is based on the distance of the track, which by going to the next levels the distance of the track would be longer.
 
 ## 🕹️ Game Icon
-<img src="images/gameicon.png" width="400"/>
+<img src="images/gameicon.png" width="200"/>
 
 ## 📸 ScreenShots
 
 | ..... | ..... |
 |-------|-------|
-|<img src="images/ScreenShot1.png" width="400">|<img src="images/ScreenShot2.png" width="400">|
-|<img src="images/ScreenShot3.png" width="400">|<img src="images/ScreenShot4.png" width="400">|
-|<img src="images/ScreenShot5.png" width="400">|<img src="images/ScreenShot6.png" width="400">|
-|<img src="images/ScreenShot7.png" width="400">|<img src="images/ScreenShot8.png" width="400">|
+|<img src="images/ScreenShot1.png" width="300">|<img src="images/ScreenShot2.jpg" width="260">|
+|<img src="images/ScreenShot3.png" width="300">|<img src="images/ScreenShot4.png" width="300">|
+|<img src="images/ScreenShot5.png" width="300">|<img src="images/ScreenShot6.png" width="300">|
+|<img src="images/ScreenShot7.png" width="300">|<img src="images/ScreenShot8.jpg" width="260">|
 
 
 ## 🎞️ GamePlay
