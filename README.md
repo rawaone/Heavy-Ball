@@ -27,11 +27,12 @@ A 3D mobile game with important monetization models.
 
 ## 🎞️ GamePlay
 
-| ..... | ..... |
-|-------|-------|
-|https://github.com/rawaone/Heavy-Ball/assets/67627984/60e0a335-34b8-4ec1-b698-4f6a1fdeeb3a|https://github.com/rawaone/Heavy-Ball/assets/67627984/bd56994c-c234-4a40-9837-aa3ae86cc39f|
-https://github.com/rawaone/Heavy-Ball/assets/67627984/095eb287-89d5-43f7-9a86-7385c97222fc
+https://github.com/rawaone/Heavy-Ball/assets/67627984/23a29cce-6d6a-4af0-9771-2af34ef3ec06
 
+https://github.com/rawaone/Heavy-Ball/assets/67627984/c69f9ed8-f0c5-4278-a80e-d7b8ebd78712
+
+
+https://github.com/rawaone/Heavy-Ball/assets/67627984/d1ee8ce3-3099-4f7a-8538-d2089487dc35
 
 
 
