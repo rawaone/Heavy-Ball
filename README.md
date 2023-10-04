@@ -35,7 +35,7 @@ https://github.com/rawaone/Heavy-Ball/assets/67627984/c69f9ed8-f0c5-4278-a80e-d7
 https://github.com/rawaone/Heavy-Ball/assets/67627984/d1ee8ce3-3099-4f7a-8538-d2089487dc35
 
 ## Game Idea
-<img src="images/GI.png" width="700"/>
+<img src="images/GI.PNG" width="700"/>
 
 ## Use Case Model
 <img src="images/UC.bmp" width="700"/>
