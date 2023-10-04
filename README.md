@@ -34,7 +34,14 @@ https://github.com/rawaone/Heavy-Ball/assets/67627984/c69f9ed8-f0c5-4278-a80e-d7
 
 https://github.com/rawaone/Heavy-Ball/assets/67627984/d1ee8ce3-3099-4f7a-8538-d2089487dc35
 
+## Use Case Model
+<img src="images/UC.bmp" width="300"/>
 
+## UML Class Diagram
+<img src="images/UML.png" width="300"/>
+
+## Sequence Diagram
+<img src="images/SD1.jpg" width="300"/>
 
 ## 🤓 Author(s)
 **RAWA TAHIR RASHID**
