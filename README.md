@@ -49,5 +49,5 @@ https://github.com/rawaone/Heavy-Ball/assets/67627984/d1ee8ce3-3099-4f7a-8538-d2
 ## Activity Diagram
 <img src="images/AD1.bmp" width="700"/>
 
-## 🤓 Author(s)
+## 🤓 Author
 **RAWA TAHIR RASHID**
